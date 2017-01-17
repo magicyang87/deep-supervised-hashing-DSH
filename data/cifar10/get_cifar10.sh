@@ -17,3 +17,4 @@ mv cifar-10-batches-bin/* . && rm -rf cifar-10-batches-bin
 # and needs to be re-created.
 
 echo "Done."
+
